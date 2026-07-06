@@ -1,0 +1,23 @@
+*{
+    padding:0;
+    margin: 0;
+}
+#navi {
+ 
+    
+    background-color: #0f1111;
+
+
+}
+a{
+    color: white;
+margin-right: 101px;
+}
+#logo {
+    font-size: 25px;
+    color: rgb(194, 131, 15);
+}
+button{
+    
+    background-color: rgb(194, 131, 15);
+}
