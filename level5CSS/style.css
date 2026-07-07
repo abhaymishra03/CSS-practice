@@ -1,0 +1,15 @@
+#bg {
+
+    height: 100px;
+    width:110px;
+    /* background-color:pink */
+   position: fixed;
+   right: 0;
+   top:0;
+    z-index: -1;
+   background-image:url("image.jpg");
+   background-size:cover;
+}
+#bg2{
+    z-index: 0;
+}
