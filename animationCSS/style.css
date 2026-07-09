@@ -1,0 +1,29 @@
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+div{
+
+    top:500px;
+    left:500px;
+    height:100px;
+    width:100px;
+    border:1px solid grey;
+    border-left: 5px solid black;
+    border-radius:50%;
+
+    animation : spin 0.8s linear infinite;
+    
+    
+
+}
+@keyframes spin {
+
+    0%{
+        transform : rotate(0deg);
+    }
+    100%{
+        transform : rotate(360deg);
+    }
+}
