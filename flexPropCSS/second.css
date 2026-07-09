@@ -1,0 +1,13 @@
+#outter{
+    background-color:rgb(138, 151, 1);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100px;
+    width:100px;
+}
+#inner{
+    background-color:rgb(109, 0, 0);
+    height:50px;
+    width:50px;
+}
